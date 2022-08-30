@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aymeric !</h1>
 <h3 align="center">A web developer student</h3>
 
-<p align="left"> <a href="https://twitter.com/capaymeric" target="blank"><img src="https://img.shields.io/twitter/follow/capaymeric?logo=twitter&style=for-the-badge" alt="capaymeric" /></a> </p>
+<p align="left"> <a href="https://twitter.com/capaym_dev" target="blank"><img src="https://img.shields.io/twitter/follow/capaymeric?logo=twitter&style=for-the-badge" alt="capaym_dev" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
